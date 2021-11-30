@@ -10,3 +10,19 @@ body{
     height: 100%;
     color: #fff;
 }
+li{
+    padding-left: 5px;
+    margin-top: 12px;
+}
+input{
+    margin-right: 20px;
+}
+.box{
+    width: 25%;
+}
+.circlee{
+    border: 1px solid yellow;
+    border-radius: 50%;
+    
+    text-align: center;
+}
